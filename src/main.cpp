@@ -489,8 +489,8 @@ static void timer_alarm_cb(lv_timer_t * timer_alarm){
 
 ///////////////////// Chatbot /////////////////////
 
-#define BOT_TOKEN "8097947221:AAEopBncsk_VOUg5-Et9nrIjqgi4KDHjTeI"
-#define CHAT_ID "7730206983"
+#define BOT_TOKEN "X"
+#define CHAT_ID "X"
 const unsigned long BOT_MTBS = 2000; // mean time between scan messages
 
 unsigned long bot_lasttime; // last time messages' scan has been done
